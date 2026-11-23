@@ -4,6 +4,7 @@ var GENRE_JA = {
 	Animals: "どうぶつ",
 	Food: "たべもの",
 	Colors: "いろ",
+	Numbers: "かず",
 	Emotion: "きもち"
 };
 

@@ -105,7 +105,7 @@ img {
 
 .row {
 	display: grid;
-	grid-template-columns: 17mm 38mm minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+	grid-template-columns: 17mm 38mm minmax(0, 1fr) minmax(0, 1fr);
 	column-gap: 1.6mm;
 	align-items: center;
 	height: 23.8mm;
