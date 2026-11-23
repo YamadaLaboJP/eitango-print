@@ -162,7 +162,7 @@ img {
 .ruling {
 	display: block;
 	width: 100%;
-	height: 16mm;
+	height: 15.6mm;
 	min-width: 0;
 	align-self: center;
 }
@@ -174,19 +174,20 @@ img {
 
 .rule-top,
 .rule-bottom {
-	stroke: #3a3a3a;
-	stroke-width: 0.7;
+	stroke: #b4b4b4;
+	stroke-width: 0.9;
 }
 
 .rule-mid {
-	stroke: #8a8a8a;
-	stroke-width: 0.55;
-	stroke-dasharray: 4.8 3.3;
+	stroke: #c0c0c0;
+	stroke-width: 1;
+	stroke-linecap: round;
+	stroke-dasharray: 0.55 1.7;
 }
 
 .rule-base {
-	stroke: #111;
-	stroke-width: 1.45;
+	stroke: #5aa3e0;
+	stroke-width: 1.15;
 }
 
 @media screen {

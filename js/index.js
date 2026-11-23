@@ -11,11 +11,11 @@ var PER_PAGE = 10;
 
 Vue.component("four-line", {
 	template: [
-		'<svg class="ruling" viewBox="0 0 100 30" preserveAspectRatio="none" aria-hidden="true" focusable="false">',
-		'<line class="rule-top" x1="0" y1="1" x2="100" y2="1"></line>',
-		'<line class="rule-mid" x1="0" y1="10.333" x2="100" y2="10.333"></line>',
-		'<line class="rule-base" x1="0" y1="19.667" x2="100" y2="19.667"></line>',
-		'<line class="rule-bottom" x1="0" y1="29" x2="100" y2="29"></line>',
+		'<svg class="ruling" viewBox="0 0 100 15.6" preserveAspectRatio="none" aria-hidden="true" focusable="false">',
+		'<line class="rule-top" vector-effect="non-scaling-stroke" x1="0" y1="0.3" x2="100" y2="0.3"></line>',
+		'<line class="rule-mid" vector-effect="non-scaling-stroke" x1="0" y1="4.6" x2="100" y2="4.6"></line>',
+		'<line class="rule-base" vector-effect="non-scaling-stroke" x1="0" y1="11" x2="100" y2="11"></line>',
+		'<line class="rule-bottom" vector-effect="non-scaling-stroke" x1="0" y1="15.3" x2="100" y2="15.3"></line>',
 		"</svg>"
 	].join("")
 });
