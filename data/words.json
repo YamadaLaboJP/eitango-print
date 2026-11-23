@@ -1,0 +1,712 @@
+[
+ {
+  "genre": "Fruits",
+  "words": [
+   {
+    "en": "apple",
+    "ja": "りんご",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiReo-clW-ie2iyVfoqgamuJqB2FMZt6SDeVg0Eiy9gRIJn7LZjQGdhQt5LgVsuczLIwcTwRVxufw4DIjZ3hNOAU9nGHDfD1RGc4E-SxwBEo3IdqSX2P0trhhbT2cvTjOkh_7zwqiXRh0ec/s400/fruit_apple.png"
+   },
+   {
+    "en": "banana",
+    "ja": "バナナ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTy81qEYQ7MLvImTaqiWn_8Wu16qPSIVeJP0Aae64gv07aXn1vB7bYczEbPjMqj-CEgAe9DMTD4KkQ2kq83y1tYUcJF3RbF7LJAe0qZLRVwd667uFMHukkjcEC1rzWheoOtGI1eqhCywi/s400/fruit_banana.png"
+   },
+   {
+    "en": "cherry",
+    "ja": "さくらんぼ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPnJeVFfDEUh7NowLv4_yT57_VnhQvM4zECVxWdcslhuUoGjV2GGJSBisrIe6OTlj0kL0zxERIamJ0Gi0LI07xeELfWzSz_IVT-wWVrvlJT8LYbouFGoaQRoYG4hstUmPxYn5cE0eM6-F4/s400/fruit_cherry.png"
+   },
+   {
+    "en": "fruit",
+    "ja": "くだもの",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilqhbReGQT2DKIVUvjUTXWudlbIBvj_UNmv_uCQL3GR5E1Lum0zROzmgw7Z9CYWHoQj6PUoxOk_qb3tJqtUmXQJekcVwlIlhR7eIrz0c4oJlCTRBidOFm7DY3DyEopIHsXhXJjH-eYSx4/s400/fruits_basket.png"
+   },
+   {
+    "en": "grape",
+    "ja": "ぶどう",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb2jjkxJKabArJ_HUCdJBcK303BB_z5PoDW1_CjDi_ebH6NCAbcUQzYCAFPfwaNFGphnZ-CEpn9mKmCrftpoU0WhsDNXcrqJKIcPUEY1Sm909vZ0wtDqT7bIP_Wro3QkKWNXRob06cMQqd/s400/fruit_grape.png"
+   },
+   {
+    "en": "kiwi",
+    "ja": "キウイ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWl8POs0Q1I_02aOOEQ9fUBVaydZTbAgolpPWHsqxAOIZxzyu4G98n_9MYAro0Jxyq821nlIEMSuDvz1s0Bw0kkVEcenO5FPacRaqZnwqG8gTR79yfDkU5-UZDWvw2ST_0M8SVXA8_aAXW/s400/fruit_kiwi_green.png"
+   },
+   {
+    "en": "lemon",
+    "ja": "レモン",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_qXryzcrQY2pk4CWitS_EEhCbyjLpeEvmh5r_NxmaKfU-0hBU1QAxDUqGyZv3dFq-LXW7boRgXjLFXuwTgjvGZU7aJnfngw0n1ksonm4Tf9iwrnmZgDUQ6FkEZuYtO0c85dMZBbH_u6I/s400/fruit_lemon.png"
+   },
+   {
+    "en": "mandarin orange",
+    "ja": "みかん",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXexVHSME1d6pozfY47XKFV4cQeW0OX7TKQcu5TylJ3sHY66utP8SDGeC5T2uguAtLiH2B3ApfFYVjYU212s5qukK7T5Utk9rSF-okRvXw-PhoQpTa-PxIZ8-bhbYMGMtIWY0HO-VuBgN8/s400/fruit_mikan_set.png"
+   },
+   {
+    "en": "melon",
+    "ja": "メロン",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWiIXTiSEujkokCD6v5LTARzA6A-Sej6X1nhY41nxqkFEfL6ua3h7r4gzzoI8nI-KO4uGsf8S_3sqqVfiv1fK9eC6m72dNv0vDbUAnfIcSV5OlLzE7x1J0d-DMwHeu1HQDGljP-c9OZuhs/s400/fruit_melon.png"
+   },
+   {
+    "en": "orange",
+    "ja": "オレンジ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq_eoN9nP7LgUxh2K-JGh2OYN-FpanztymNDq9RXFEnLZed8LZldlOAVeWjAdaFjd1896aKxGeOScicmN9mym7mEYNd8XGKa7OITkps7vqU0KYu3h9jWSsANDqRGVtGS-qn8jkT_2g-HYl/s400/fruit_orange.png"
+   },
+   {
+    "en": "peach",
+    "ja": "もも",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipkbCzoxrxffZK5_RM3Ch8BYAtUAz4zTt4ETx4xTXZZ65LKSTaPVWIi7oewY0NRjwqY-WUmpsNgwu6MBu2zGtAKM9-x_ZWIKUSk2hjUhrOqMMIeT2_bI6trbV_Pja882CW4MmDUK1iaI8-/s400/fruit_peach.png"
+   },
+   {
+    "en": "pear",
+    "ja": "なし",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_finIeeXtS1owmsyEGup7SGM1D299yK_L8_9Xkr2Yacz7t04NIUGORfffokPSOT0L4ZbltkUW8Sck1RXbfPWC5VJ4hQANGIDdPGS_kNzkB8SEt7Ue_Yv1STxUVBsE6ihZfEkNBRucOPm/s400/fruit_nashi.png"
+   },
+   {
+    "en": "pineapple",
+    "ja": "パイナップル",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaaUwzdP0LHRtptl4oo6U8pWKzog1t7PtkUTkjKX4E36YrMdL4abwRoozLeFKctq1FVWpWhfnWBJy4DR9vxl19NstMH4zfeVehF262USm9k5jnGXoATrWdLLLTEeDjETviTGvIKuJ9E9nh/s400/fruit_pineapple.png"
+   },
+   {
+    "en": "strawberry",
+    "ja": "いちご",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi16xaBrly6jqbVAhvgAWn-JdGhVIRXmatPCrcV8n742YEMOFnD6bq17TlSDPNZ-cSQEqXSrXlGKFkksGW0JL2CuRk1uHaC58YE2MKMfbeEoUDADcIUikvNVZ1LzeHQEG4EX3_eQ30kvoRm/s400/fruit_strawberry.png"
+   },
+   {
+    "en": "watermelon",
+    "ja": "すいか",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGzs925zRMgLU60x1bPyZVKdh5ehbjxzZx3sA_yTQMuys2pV6QmND89tbPiQ4aTz7PPTNSmr1OBD2M35_iadW9yHHlGJMvwVw_KjSKg_E0rXUfaOZhCxcNvR-Tthy0gwE8sS1gwuq8v2g/s400/fruit_suika_kodama.png"
+   }
+  ]
+ },
+ {
+  "genre": "Vegetables",
+  "words": [
+   {
+    "en": "asparagus",
+    "ja": "アスパラガス",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvtiuyAzBqzJe89Zr5L5XpVvCX-ESFF2o3FNk3T-N5qrRa-D8Me2oB_itLnOX_DNQdPT_XipOdgB10V67BPbRHt_823kBjqwpVRTU3ENCsmC-sbuHBSGucA22JLZtyNefmvMjJ7QGaYlaj/s400/asparagus.png"
+   },
+   {
+    "en": "bean sprout",
+    "ja": "もやし",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ80selFCGH5ZwHEp670qe_CpVPei64383_k86ckkaaSt_Gjb9-x7gErxRRgQWzb4EtQu1p_4zZScZjLPiWoJG4W2YwN5sGbtYFU3pslgLR4Tzy0a9mBxBXuvXN242qhgNSC5xZAmof6s/s400/food_moyashi.png"
+   },
+   {
+    "en": "broccoli",
+    "ja": "ブロッコリー",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixP_ejWoiVUEMhaCuG3yxHFRAUycY6BWiDtIMsxE-WTfrc_riFXVwwAL7QHvG23wYb0t4t9Lz04LbR2udIOPXKA19X6rahVZtHFw8aJ3_tR_rGW9dMWEZURI-uTleISSKvy0900eobVVMb/s400/broccoli.png"
+   },
+   {
+    "en": "cabbage",
+    "ja": "キャベツ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrxDFaC8qrO9NvUwdkgK2wpHraFDgLufEwGjeUkeQTgh05OyzOxWnI2jOsZA2YOE_gSPK9KGjPYes4_ZWdurDbDRsWjj5rgJoYyj2F-qrJ4BU19z988v38ITqD9zskMTh1AnzvrN6fbzv3/s400/vegetable_cabbage2.png"
+   },
+   {
+    "en": "carrot",
+    "ja": "にんじん",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi29X1EjT6gfc-jQY9Cllym4znwxreuiGK84lq_hAcXCtlQUKSnVc4OvEP8oElgFVmNeL1gq6PGF1Peo3j1roxz88xG1SszfBWhiBCCIVnjpTJrKfJHo1DgrOtNCp2RTChbAx54z2sdc0ma/s400/ninjin_carrot.png"
+   },
+   {
+    "en": "Chinese cabbage",
+    "ja": "はくさい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnRV1iXtJLtW22NR6X7Eclf_hieb64uemdoqAf0l5ZndupQZF-3V1sIx0Yj3_VnvgOug_XTQabjl8dXqE1zmLJgJr7-IznaiYAn5u6biXCBXCHXJhnZOUEWLKYtP1-aSByIrcLdazsuTjn/s400/hakusai.png"
+   },
+   {
+    "en": "corn",
+    "ja": "とうもろこし",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiCUoozS0uXbALjVk9BmnmVygkhiko_M4ienHZFnAWtLUrZN317mK81BfaM_i-UIy6hft0hPc6AY6qC_OBshETCoTTpzdy4xbUo0qDxIRGzDG4UJdsfErS9iejpkPg0Mr4LmyHzEuVgVbX/s400/vegetable_corn.png"
+   },
+   {
+    "en": "cucumber",
+    "ja": "きゅうり",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM13_F3jGf1DZO41nusSxUurweOd8GWrayXSephH_0Z8g-3VRMeTF20FfNQhX1ONQ82P-RwzGFtvERUI5maSWUHMFgaVDxAXIKj8u76jK8kYdeuqYLtEpDheCqU_OfIKBQPLSD_jP2-2uq/s400/kyuuri_cucumber.png"
+   },
+   {
+    "en": "eggplant",
+    "ja": "なす",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJChCKi4qs2TYz4vmgEQl1g7YqhmrrDs29pg3PDz3dMM0vJo8MXolBdblEmJJuaWYNJv_RcOuAzoz_nxm_OeApRyQpgkRBeGNuQn3Pkwcbos_4VC5IZuESlmEpkSGcFtTOBhCZAhkedQd/s400/nasu_eggplant.png"
+   },
+   {
+    "en": "green pepper",
+    "ja": "ピーマン",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn30wB-HUomgGCZvV6one_D42X27KAiZOTNawcPXHCU2uWflH36nxuYlY_pysCCZ8GCh0WXSIGYKTQNM-Q9nBUtGMADowHLxKIhoZ64q7qoI735I5f-L1WhbM3oc7u_IUDav7SKR-E9JAz/s400/piman_greenpepper.png"
+   },
+   {
+    "en": "lettuce",
+    "ja": "レタス",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YMZcZ0EJKDtkNDmnQdL7Rm9bAj8c_ksyHfph9dsMgJyda-Lp6i-8ruo5EA8QeA9YL_RYXwd4ApOrIgOf1wEKkGVbdL1P8qZrv8QEV4ejS9p4lVdo2u2ITvkv81ik3wJ4aJidDM8xo10L/s400/food_lettuce.png"
+   },
+   {
+    "en": "mushroom",
+    "ja": "きのこ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivbhYSJp960mXYbOA8auXenspUqC8peZGG0bzdP1TxXDzt5MAxEbUr9vbSZxvPx6Ik8R6zVHeNv4PQ7yPxeBpT4dm5uj14tPe75KSzj41GVbtkY2yPwyX8NxmZSwsAZHtgmIBLJLqPz1Y/s400/kinoko.png"
+   },
+   {
+    "en": "onion",
+    "ja": "たまねぎ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtZffm9F4DhF56L6zbfqLDJ3JsREuzD2xtoox3MkNq9fYq-bZkOS-Ca8v4s3ommlnBjPp9MTVw7WWyYwDccWOKaltCCvqEiJxwKnyNcmyU_GAdBzIv7IxRjsIQOZBUxe3F6EYOeRQF3anF/s400/tamanegi_onion+(1).png"
+   },
+   {
+    "en": "potato",
+    "ja": "じゃがいも",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1a9QUAQRElZWLuuMzydEZPZyopjY-5W9PegxF7urVR6WTLB421deK3kGbZfS4n6-XDw48k8r8gcfepjFPdM88xLBQbIyUfPqjC1XyS17tpBmp_ns2ZdOScKe3J-9Pb5LShp5lQRo-LwJ-/s400/jagaimo_poteto.png"
+   },
+   {
+    "en": "pumpkin",
+    "ja": "かぼちゃ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMLbaa2APwU29fQ2g_sJeej-MTcfLF3mEV_n6v9rFtqXcuPwHt4r28nCdYTUNbzdaqItkYd-GVirtFpbupTDSXpVXP6NnLLnXBYU2XCQ9wv3-H8yqaHeTPlp8qBweXsv0e3Vom_Z2OjLU/s400/kabocha.png"
+   },
+   {
+    "en": "radish",
+    "ja": "だいこん",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCrftvLr8ZfEU_2tO2jPgSy-7lvf5oxJdPL1GjEU83CVgPBIWrKjWtNjTHPD3_DrB6RH6cwlClsmg64ybu1RFwj7_v1Os08ca8nFv3wbH4K1jTvwJlicKbg1wpiSpGbpPQ3zccdsRYUHr/s400/daikon_radish.png"
+   },
+   {
+    "en": "spinach",
+    "ja": "ほうれんそう",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrb1CPcE4Poc6zuT0LM9RlVmaCWy-MucJKkFY_zJ_Reac7OBpzajfiFT-tLu17-ibhfuElV5E6n_g04IZZWoSmaA2lJ_TvwkClmxlnIqcpd63RrpVToO1bn3Wfy_WZ52W7taimzKY13AiQ/s400/hourensou_spinach.png"
+   },
+   {
+    "en": "sweet potato",
+    "ja": "さつまいも",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6cZWEJbC9V0xUwLWVMA8fKU49NOrnQvkVwsibGu9Fi2uGPXP0hc17slpx0yfDX8IRcP24z2n1oPCjx3Y6FYKR_r0QmjTaxfLdljy4tXnhfl_3M8RxIlMuV2uBKHW1PRRZFQgMRIcavRJu/s400/satsumaimo_sweetpotato.png"
+   },
+   {
+    "en": "tomato",
+    "ja": "トマト",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOCiIKPOlZd_ln1VFeO0Ps4KO7vOHZiCSiQegD06giTH2E0vUzwQPX_uuEdpp2eWhF37cJ4V2MkyJdX9E1IIQIYFUy1qBH1T5FDifC53LSlpdVCCRZE9kbuXLo2AidIFqswVoyoEmEikIU/s400/tomato_red.png"
+   },
+   {
+    "en": "vegetable",
+    "ja": "やさい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-IlSLjC-9knuwcGApmQD10dmq0A5pt1HC4hTngOejSY1t3y0U4MML-SiUrHYO9Bq1q6Vl43iwBniG0xjtTLAbjF9zBWEVbFCAk2oIwiOgRaUBYdAVZjyPwKGOFaryb8YoThx10-F1UM/s400/vegetable.png"
+   }
+  ]
+ },
+ {
+  "genre": "Animals",
+  "words": [
+   {
+    "en": "animal",
+    "ja": "どうぶつ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhpV95Ej2mdxHXuTC-0-_rSYE4KSxfZrQf_VvOHcDa8yMEfPZoeTt26vFL9xd6Jp2MRFYBoozZ5I1wLQtbivunmPP7slNfmWGIAk1kfLIT0upxymSB64ZA5EhyPe36OR9dYPgUkDKryjzl/s400/zoo_doubutsuen.png"
+   },
+   {
+    "en": "bat",
+    "ja": "コウモリ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXAisgXNNLSr3IFxs3PjGzgw4N6QHEBiLYXYkN_L1dXz1a6AmMJA-dVKhJauiFIg1fH1KX0pyZe5s1u_4SJU9oy7Bc6nwOzhdIVZa4_uivZSbFc0K3IHz-WrNtT2qDIJJPenoXizM-iTJL/s400/animal_koumori.png"
+   },
+   {
+    "en": "bear",
+    "ja": "クマ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lD1n1lxNJxhW9bURXED_UmYSrtWJr4cHcZQ-t0jCZAb2yjjQ0GbHdS1bwfm4FtXWUssRzEgncdI2Jqm7KslnMorcQL1cHWEqW_nnTHnbEfUjsX093S4xf_27rX9pc8mblC2hAJYC9Zlt/s400/animal_bear_higuma.png"
+   },
+   {
+    "en": "bird",
+    "ja": "とり",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicZI5_umoPtAuMgIj6sDicn91I5iCeAR9BBh3Z5RCM0v_9CMFy5tVVJ3Pde9tVJd7RaOGI4yYT_Hch5uc0IepYpiEKg38z_h7sEJc7hkYXbIthfO6T7xOvtJ7zkuChVxbQlMl8oHxXF2Rw/s400/bird_inko_yellow_blue.png"
+   },
+   {
+    "en": "cat",
+    "ja": "ネコ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0K5k8jquE_kg_4NMmg8h8u98oTUiVMkftrMwzSicZEFXpgCUnOSzrqa8nEfHPST_4iiuTBsQdpvGodGKrCyqWu1X3z7PwpFCr_6JYg5SVuXLQz3-9I9d0HFi1vfngZryUAN-oGjcDickH/s400/neko_sabatora.png"
+   },
+   {
+    "en": "chicken",
+    "ja": "ニワトリ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFrNDBJGy7ZWqd5Na-4gOXyVbx1PCD9rzod0r3OhuCJZDwbtPnzADEFdq49lW7VHApuCJAK4e-wH0BfV5f6jJjXIzrkST3Z4C3YD_mtnUK6O0pOLOToIG63ymGoqM9Kz3qDIh5__n3xynKGWBCxSWMWjgVUGp1Qaw32a_86Kt7LFehKjg5Knz2l9ZTXtfl/s400/animalhealth_niwatori_genki.png"
+   },
+   {
+    "en": "cow",
+    "ja": "ウシ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ01OJ7ep-NTcHAbAC3MbZnV4MMPuoHpILXbJ0t8tVimbf7Lv33DpGfwU3sLceI7iLOpmCu-vPnk2eedJjUfmmG1PmIL4s3KxPgagbBpr2qWvVGHQThFfyXc-pyoOCM3GIsMBGv0lZqpI/s400/ushi_nyugyu_milk.png"
+   },
+   {
+    "en": "crow",
+    "ja": "カラス",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdzJ_k26orV-SZAqoftcTRyQe6gZ_E_RiZZxwdFwxI4G_5qd9PhVvC4XtO4JslkQeuqWEHZWBU-2Ln1b-RPn8aashLL2GPVIX_hr0w6BXF2-vv-AoEFD2mKfLaSPcr5tfkHnv3lmqY2gk8/s400/bird_karasu.png"
+   },
+   {
+    "en": "deer",
+    "ja": "シカ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg66g8u9vu4sTAHv2LjjxHXvrVbBcIivvksKje6ReAhi_G1yqdX5gDnP-UDWKcvo1rPyVtfijrI6slXGseLAY6N2TmNaMYKTQO-0Jo2IGIqHToSvtpcH9UCrVonIhXaOsD3Lg0J8sPKiW_N/s400/animal_deer.png"
+   },
+   {
+    "en": "dog",
+    "ja": "イヌ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiCep356zNVAeR-4r1V3dGYiquyg8clI8DWQocjPgodXO5XENIVyEpg91iXMFdmfiEPZGXtzzR5MU9jc4PmtiRb1zco6UhyphenhyphennOUNUUbSsUt3vVFF5SE01mpLupgecjE7vKxaWsU_5y0hcc/s400/animal_dog_osuwari.png"
+   },
+   {
+    "en": "duck",
+    "ja": "アヒル",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRmH5HNxNvEXGTv5zM0QCB4QpiNQBmLmAL2BJW72dL2YQZiMI6pF_T0a_P64HQW1cLSVth4Td_Cbpn9VsLC5aG09jRwzmtnhrsqp1L3nvzxxvOTgkWJ4x_0WZ8d3AanNsLjqU_y6LElP9a/s400/bird_duck_ahiru.png"
+   },
+   {
+    "en": "elephant",
+    "ja": "ゾウ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI0EbEnno9i9c_2JfGZ9Iu2Hr_jTfoFW3e1NAc12Z_XTLFjQI4BzOIxSgpfVDp0ZR0vHF_gI2ICBZFfZ5jYrGyNiz5l65ppAPpEPzQ1u1fXLcxGXk_AT4PEuL4Q4HPNfcto86pdTEcwMA/s400/animal_stand_zou.png"
+   },
+   {
+    "en": "fox",
+    "ja": "キツネ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXT7fcrfGnQ0VyXbjrWb6vRFepSarCJ8pnhjmuHbre8G0-K4dzTxcYKGGXGJZddCDy_ObMIxCr7SMi9SPEdH9dvYZvSs8s42WcL8nTqhGAnyRKPj280S0EBqjHHlvN-XqNLnAd_PhvKBI/s400/animal_fox_kitsune.png"
+   },
+   {
+    "en": "frog",
+    "ja": "カエル",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs6cuOo-zwjQb0ENshP-uzNYz6IZ8Mc3rDGHaAjWocvIcQ6PFfhShLAny8QLtyaLZRDU4BL_3pElRFUt4b_U0ccO-c2fA5uNImVAP967A1lLSPUPxonTNPTnoZizk6FFXxRqsKjNv-e-4/s400/kaeru_amagaeru.png"
+   },
+   {
+    "en": "giraffe",
+    "ja": "キリン",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Ufcnntq3i-p_bhntM5PjhTA_gMMZPXsIyNSW6J-29aVCQ3nSWSylM75HvUGntfG4Qh7krlS-YoCEMyw6ixeuJUgDFjeJLDRKJIRCsn-bP8WNnGYeHab20t2kIKh6eAtdXGtYok3ojNww/s400/animal_kirin.png"
+   },
+   {
+    "en": "goat",
+    "ja": "ヤギ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijYVBTA894PO-O5-pt_zSxIOLmuamzdXvcplBKXUJuJ00jUSb6KkHb3vWFgDnO7EtLb9YE1K4uEoPScYVbEzrxbnknu8XMoeVDS4jTQheVry8_Q4oVicVqtKNVtDVok_Ef_EuxgFFVOu7S/s400/animal_yagi.png"
+   },
+   {
+    "en": "gorilla",
+    "ja": "ゴリラ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7U2_dBAJMNTLmfabqSlhEbqzbctKbY1rEwDh52iHPDNQUo6yzMtvE5NUmV7s_eBYDDv9nEDwCsSV2roX1cpx_DGvRkqwIdpOQVm8RPwN4RUaZ8XRcnREFKTfUIFVZ3RphJzPivLXPIlOI/s400/animal_gorilla.png"
+   },
+   {
+    "en": "hamster",
+    "ja": "ハムスター",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5OuPYNMNMB968AvAIEUDprCeMPpidHb3RfNY45kxV_dipXngeswnCCZhwaR4S9Wz8Uaa_QwA_Zy4tnw7nan1CVFfM6OS0SZ51D4Rj79RD__oIFMxjRDAYsdgschVM5zJgdjG9SkpKdEIm/s400/animal_hamster.png"
+   },
+   {
+    "en": "hippopotamus",
+    "ja": "カバ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1W0bLkr0W0ncNQl3kNM9bVtJy8Ae_JbFNzhArMZIiSSdnqdVUgA_WKvqsp4xl6W3yW7YBxuv_coo_dOcVqPBEtbGjEIBeBWCqsNgLQELhbk_IX-aF3ZbKmIYwPSgklfNue3ZmSJVn_Yu/s400/animal_kaba.png"
+   },
+   {
+    "en": "horse",
+    "ja": "ウマ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Lxod2KcYvaVtImps6MnR0mAcH8rAdyJ_1lFvhAgh61cbnKjBY5tiUJ-X0PeqI3sfzVUVLQBpZdcWRZqB_jkqRJ1MMjhdqgqbio6rV6Ov-VrO-t-auw2tVMtCbTsbWBF1n0n3KT32K8Sl/s400/animal_uma.png"
+   },
+   {
+    "en": "kangaroo",
+    "ja": "カンガルー",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBeIR9BoWjibPBx7x_3XCfg5ZiQfdj6tBznNxKK2KfmZH17gLxEHEoBFHPhhnf9TKjd0dmvpCQ_HgKgUTmaN7B0xNM16T_BT0mnAs-VHqSuvKUNQWV6AON83KeOmyiwvh5dvgHmtafHUX/s400/animal_kangaroo.png"
+   },
+   {
+    "en": "koala",
+    "ja": "コアラ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5jn99iIbQOWAK819CWLPzRYMCHgLX-qbB0Bfv32mqqMiFfEl27jjcvJVLxFxgrWZ4Aasj-01pA_i8TIwwSb8J2VFyhWAE768xsArJbnQfyfEJyNdyTgliSgMAfnxb-4lwmb3FF3PSbYw/s400/shoes_38.png"
+   },
+   {
+    "en": "lion",
+    "ja": "ライオン",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEaJ251hznmKbC-hs-Ivlk6qc5UzsZSLm43DZPU7aVbjYPwom9ccNEOCNVfDfEkzzLDlOn9Ndugl2PalnLiTLz6Yza-u_duMeSyzGIsc9Iwg5OBJPvkTE84MnCLE7cK7XOGNj2E4XUZKcE/s400/animal_lion.png"
+   },
+   {
+    "en": "monkey",
+    "ja": "サル",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBQIdWpp2LASEhhNYuQ9v3BNtGpWNCZZcKGNBfscx05Wl0KEXlDL9bTN95F1U6Fh4BHHfi8l_V5WMzC0rMqAu7V1IC9MQ_RTmY_J-p7G5W_Ovsz6HktXbOBSzLPsvsktSoiqowWM_2FLU/s400/animal_nihonzaru.png"
+   },
+   {
+    "en": "mouse",
+    "ja": "ネズミ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPMsFORRVOhSHsdtPYr8FHJ11Im1BTODMcldlj7f1lXr4EJc4i1OsgSpDFQoiUdyHaJJjGYBom21aDcd5LaebJqx5OcrTkq8rMotGaKrPsBzh7HNm9F-QmaBFaOwlOdh7qo4cBRpnGiOak/s400/mouse_black.png"
+   },
+   {
+    "en": "panda",
+    "ja": "パンダ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXJPa2p0GbV8DsTPtRhCNrJgxcsqd8TSVnffC_OrUdC-MNLtXdVoK8JpehYcktMKuug6q_p1ZrLkMJITK0UMt68JHxlZ39Sk-RBo47VIDhxMu_0aG12PVeWFIP3JgM05oL0OG62yxXvjs/s400/animal_bear_panda.png"
+   },
+   {
+    "en": "pig",
+    "ja": "ブタ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1D2TNNmvXOzIz5XsOyqdWE01hA4AHDH4cEdw4AM5hY9qeWfaQPjib5WJ1P9-nx8zBwR2wV9mDRIQ1Qx_U2qO6AjsmD4vKOFdzVhspYsfQ2UrcadRKIFi4JvWU6MxN7Sqc5bwhies-7Hs/s400/animal_pig_buta.png"
+   },
+   {
+    "en": "rabbit",
+    "ja": "ウサギ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqlVon_wKTSNgmrK_qvx211WrpULqXSNzTNTrhczSVcvGPaagUJnk_Xaopb-NPDmWM-61qqswqNo8G43oVsQfuknmTGgH8kY1Byqs4okCJE6R8a_WCIo5a61up2Xh9_zQawnyDtRdvwj0/s400/animal_usagi_nihon_nousagi.png"
+   },
+   {
+    "en": "sheep",
+    "ja": "ヒツジ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibT_9YlTNhfMdstUVQrVEFZ0080neRH4yfat9Ic3YGvwm3wzp5y5bqXcWDlnwlu1dxblSuYPsB9KXdWvL1_rkPvAdmEQVqARb98Rfl9CpgJ9E5SZCMlV2ZFHPfV_AMcWlusCv-7l3LKatT/s400/animal_hitsuji.png"
+   },
+   {
+    "en": "snake",
+    "ja": "ヘビ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7shkg06maKHGyOnlhY_D0Shagj5z2Gu9dqONNYoKfH9vW7AvGUo7P36BGYl7JuLYK9SKJ1y33cT4J_IidX9b02a2-c_qxsNdWRz-3lUdbXCtWIVkP1iwHkAHlS8iD76PL5IDy5Yn-og/s400/animal_nishikihebi.png"
+   },
+   {
+    "en": "sparrow",
+    "ja": "スズメ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigFrGTrd_XfJZ4QgZqFdN_V2ycWLgU2BSSvSZk4rgGBK1cP5mm-6GK1XIOZUZ-uy6PBrg6QGAM-Fi7aK13A-t1E1_AbD3a0AOQUT5J6qaP14-7dFVqa_Fbit0k7E97nObf1id_CPtfJVM/s400/bird_suzume.png"
+   },
+   {
+    "en": "squirrel",
+    "ja": "リス",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5zBzXu2Jz_BZ98I7kF4SZsMH9srfenKO5d9EncMXTYHbBs_iWzE7N3uYoi4HM2gDxlLw3YAnKno252vO_-p9-vVw78n5F7WpZ8jJ_Ff_RkgS1poOBuMKQaseuu5Y2NpqxpIXcNSoGa0/s400/animal_nihon_risu.png"
+   },
+   {
+    "en": "tiger",
+    "ja": "トラ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfUkY7p06_6iu1UHlOybTj-1fEaR6n9nCaagvJJ5jwiCc33w4M7dz5kS7WuVWYICgql0XxnyNSstuT7OOQmz9VwG8-h1XTYYuRg2BNm6cvxExYPvgdlpf9uaVihILFnJF_PfuWtoqxcmy6/s400/eto_remake_tora.png"
+   },
+   {
+    "en": "wolf",
+    "ja": "オオカミ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX15Rm9POwkSJNtqC_pAXXJ5uxL-2icRubCtWcxG0UaeyEGKJyZZzuMs1DVgn_QIcG3asi6bTkQq2rn-T6QHiITa-OQijG9l9OnkAbztKpfi2xg9oU8_Zwbr8oMFhHey01u-DHat1iwNlj/s400/animal_ookami.png"
+   },
+   {
+    "en": "zebra",
+    "ja": "シマウマ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKe0s-sar_r33zxJlWvEw63TuxlfSN8Ohyphenhyphenu4rYY2wQxdLlnOjrMM4RgKVhVE0iNySZHGbjkabuIa_bZTXmdEgbDsiWeinbkFtBFdgF2dpmsW6T5jbikwVeNrYXKTdr-1m9WOtEBYXOpuY/s400/animal_shimauma.png"
+   }
+  ]
+ },
+ {
+  "genre": "Food",
+  "words": [
+   {
+    "en": "bread",
+    "ja": "パン",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEVwmsSjgvzI4cK9rT_R781js3ZPl0vGi07I81fl4us3KxMIxG08-rbciiUUE-Auc-_K4FUZ_EpP1jppY7_aYl6mPaNee1qmaF8A_Go8AqFBnTRJIV8nR3aYykw52aFnEyK1Q4TjMoDOIU/s400/bread_syokupan.png"
+   },
+   {
+    "en": "cake",
+    "ja": "ケーキ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNXU57yjYCpUt3_gRlGJUyLUqegJhk6puWXE6kb4E8Y14GNrAh8DGkfDAGaOZnm8wmqs95OLxwXYTj1WPddiP2TCk0dUjUS-FySSj4tMWoGgifU4EjO2fAzoN8OpD4CzYkMoNdXPblIzIQ/s400/sweets_shortcake.png"
+   },
+   {
+    "en": "candy",
+    "ja": "あめ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtzo7hzjl9Y4FzE2BnHhT69pn3njtyGxk0tm0ELxqpBvWTCa1muDcqESEUsbkPRJEtcE30IoX0ErZwOGcF8CorKW8KxQj-YKRvCWb1KgNf1zYUEOF4Y3-8P513Roc0ID1WoWefipv-jvg/s400/sweets_candy_drop.png"
+   },
+   {
+    "en": "chocolate",
+    "ja": "チョコレート",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBFAEqRhleuUj8s8_Me02OcyS4mgv9UaJihylDeij8f3RBRZ_3crxIvA_cB7W-Kl3V1pLCPrI2usg4xdS4JhF-lFCrnsDrzJvbNCsKMQjAmy0TDTSZtL27deEaxj0ZRIyxpEswTgH9Tg/s400/valentinesday_itachoco2.png"
+   },
+   {
+    "en": "coffee",
+    "ja": "コーヒー",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm7j4O9Fre9FhRX8tdlNhppCwhjAkoOPtG4s0-j8ClpkGFCix3cpZ9Kys7usPGEpOBmGGTZ70wgZSJEXKog8MP_BV0JJIHYEV9zPfjdJnOiWV2eWiCIZcMMP5-Wfyiv5r9caNxvFAm0Mg/s400/cafe_coffee_cup.png"
+   },
+   {
+    "en": "cookie",
+    "ja": "クッキー",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga2MR-l2GyTnkgGAMRVWlw68d2NR_Ou8pPaJebb4WUiSX77ZQ_HPTZkH7PIbL8XVbjvzZq3PgmGlKUaWCBoiwEwY2HRMw9Dqna3pdVT2OK8rwSOvp7C6F6Hiuk04IjD5ALot_jFw_skO0w/s400/sweets_cookie.png"
+   },
+   {
+    "en": "curry",
+    "ja": "カレー",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjN92CMfQ_dLq55wvok9j_e4BFZdlUWQLJ5jaNY8onXGgu5cYY_oXy51GyZJ2uOPNevXlM8jVxWhdEUcOd1fWXoa0v5c7xuno09DaEG3dsBWkgClQNQYPBCdqyo2c1wAvbX4iQ668AN9H/s400/food_curryruce.png"
+   },
+   {
+    "en": "egg",
+    "ja": "たまご",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35mKKNNLDfWd81HWiaJXkVRoIBSQct7b8wsjhFPFOdYQvx4fnoUxppzdOMTU_J7aatl089X1fQa-YFqQAYuAcK3ECdQNZwBibg0IT848CUPMVn7iC3865uKHa-fqSIguAb9ZHi8Whzh0/s400/tamago_pack.png"
+   },
+   {
+    "en": "food",
+    "ja": "たべもの",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibJZovrwwdODqbDJSY44cqeLM2ZsaiVmfAav4VI_djd1ORw0QyWf40uQy0d1td8V-AjxWe3-SOEGA4Oab2uTagryOY9jR85aXU_0mTFDXO6yTT9mykO38yAaERUJRTbKK9PLexxr_CdAxr/s400/teisyoku_hiyayakko.png"
+   },
+   {
+    "en": "French fries",
+    "ja": "フライドポテト",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZTQY6nHBE5zNXX8GxOUJOnZKSq6rib90CGxczSZK0N6mcacSC_-24KJbIIbDBdR6-hWWw3m8EhKKAj1HNrikaVeSXuoPAafwmwJchURjb5ym4aylJN6Ew4qbuJDnHvfGKB4k5p9wi5-LZ/s400/food_frenchfry.png"
+   },
+   {
+    "en": "fried chicken",
+    "ja": "からあげ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK133DxAaE5XSIf2lXjX1xqmm2OQKDEMKhkukPplIZPHCyJgiI-cc8Jr6R7y8TocRTHacEyD7h2gOF6WLtWu_jE3JbcWuRmmeb2d8tcWlqYupdaghJznunIh2-7B7kdwLBUSLVUdGYZsY/s400/karaage.png"
+   },
+   {
+    "en": "fried shrimp",
+    "ja": "エビフライ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBv5JPatuKH8aw1jXHlUjeb8LWSwzkDbHK8nM8D3LFlKGmvVi5ObsJQExI61fDpLuNqkTIsjl_pOBBWdWNG7_UUsGxV4cvHK8o8mbR81FbU2R7kN_yssn71k-rR5VPnyU0iXR7mcU_rAM/s400/food_ebifry.png"
+   },
+   {
+    "en": "hamburger",
+    "ja": "ハンバーガー",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2n-AZ_NwVhtJfVnUtPznBj0yM0rT0vvi13fsg4oSFAmS9dUW_7Yg2eA67bE87AQsbxy4FNGzCRQhO2oeOZm5rDc-bTi3NtnjsXxRWTRS3FLsO4QL_eVgkiq9Y-vnhJb2putx1_qsCyaN2/s400/food_hamburger.png"
+   },
+   {
+    "en": "ice",
+    "ja": "こおり",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzvKHNdMsK9uTgkTsnqDjM9aek2IfiM5z-hxvnxvMVO5vjqDo_ZhdNVin218NiTyqiZJDTW0UrlNeBbdEMw3UBCltKQU4aq95wV0_IbAIINsoUGpWMO3A4KbW9-49m1R7qZ7W5XzVXp54/s400/koori_ice.png"
+   },
+   {
+    "en": "ice cream",
+    "ja": "アイスクリーム",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdqrpS_Wa4SgyZ6_2joBJmHOvJpMq7iPvjXC3_xBFOBG3D7Z8qOOk35Osr8ujQ7JTN1MD2E4LkF9zjjYKQjVZ_N7RtO5pZMCwSi3z7Fha1txP6FcWAHR2eDCpuIrdWor6DS723nFKn8yIN/s400/sweets_icecream.png"
+   },
+   {
+    "en": "juice",
+    "ja": "ジュース",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajkeTvGih5jDVyAtpIrlmm7VfKYuRF03TjsFbENWc8ZaqWPTGERBh4Q1WQF7oY2gH9CaddjiuwMjH3swXWGSbKtafbv6oKyUmxtkQkHF-sI3aWSDS_Hdo-zQ2Gaqr4z9WiJ0rDX_n_R8u/s400/juice_orange.png"
+   },
+   {
+    "en": "Korean barbecue",
+    "ja": "やきにく",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHz4Pc_s6-TuROmvfeJrQzymf3d7Oiks2eoWUCHPBgDXS6CqxeytcPxPMVkij4PwwUNmg4Z10voDrmPhd79i0Vk1gc_n447VltbrWjrKMz_Q4CuQQP9KfWNfQFglabD6MR7PslQPeyzOFf/s400/niku_yakiniku.png"
+   },
+   {
+    "en": "meat",
+    "ja": "にく",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD1eSdVQD1iDl9FZ-kGeWJZP2xQ0yC7ecThjGFOGNSBdtMjyKmCMYadoirJe6ypivVD3fWyv-Rq_Ba6ONgS1NHr5OHrstL8pBum29mCtcc1JgBzqE0R5lj_i6t0YKANBkMbeNTSHPmylg/s400/food_niku_katamari.png"
+   },
+   {
+    "en": "milk",
+    "ja": "ぎゅうにゅう",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Kw9nxhMhbvZv9Qdmtu-QLqCBtUUfgrf1FuBkR22805MEQove4mzB_UfFrH4JCfCRzFzUNRF6EShMSaoqlnbXXfsR2Ss7WWYIRxRroYcIorl9-ac5Z2qhtzMlL7lXjg026chNiAIcDJh-/s400/drink_milk_pack.png"
+   },
+   {
+    "en": "noodle",
+    "ja": "めん",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgebiSU094EyFigTN1vChT6q_fVbeJgrUtgI0wx2zREwnYPNmAH87sUwtTUSW7CKw2l3hSckpw1qt5fH_Fy-u6GwHE4YiSS-Rq8VOwIbzZ-CW3gPC3A9wonHvioRmE5GbfI9Om1cvELUIU/s400/food_men_chuka.png"
+   },
+   {
+    "en": "pepper",
+    "ja": "こしょう",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrWoqxInWz06uKg3mhoxzwWp-56V89Pq2z78pYkg5btTdg2hpkK2ESeTlPUUJOK5Dm9m3JCiAgacUPt9tMu14PFB-pJIeqROe-DaeGMKzjNn7NZQ5kGAsQRTlsp-8ankEfm2LNmPwGEbQ/s400/tsubu_kosyou.png"
+   },
+   {
+    "en": "pizza",
+    "ja": "ピザ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijnnnXzseyv8G5Y3bqtOfJe3hRg3McyQaZAdYJkmlXf6gO8mnnL80bciX7jI2TUHTMsPMitftjLtwBNGsDl8JXf2IC40elWijvbFTM9gU2BZq478kKqTVVKKutEp1KWhX66-O4ExPHKFEt/s400/pizza_margherita.png"
+   },
+   {
+    "en": "rice",
+    "ja": "ごはん",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI2iPJEN9aBU1aD7KhexgNK-Ki-AaZWtKhgwTlNtIz-GFqfjOdCfTjKegeeaxfchMubh1ygYIzdz4RuTpm0nuPtZbXU0ZGDptPup56oInCvMRLEnPU0p68hlTQ2465azgFVMJI0I7xZmmc/s400/food_gohan_hakumai.png"
+   },
+   {
+    "en": "rice ball",
+    "ja": "おにぎり",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARTomxbLFyIgWtnA2WHAL9G7ExCN13b3uyzL2KNA89mXTDWDOTR0O3z0gfXzckOHmvJGZbWGLfe68TpCsBsET3WGuaLWRhsRFpXPBwR1A0ciMKtkqxT2zmW2G0iHTotXtaeHbd4688mKa/s400/food_onigiri.png"
+   },
+   {
+    "en": "rice omelet",
+    "ja": "オムライス",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg5nDb_mCwhuyWtSDadS6fFWmUKskJCha5EifBMoq68cjQDZ11qrrEbRvUApAUlslPxUMNSshjnXqQpSZz1SBgwWdBTD7-i4tCsU39fQukZDMjRHmB8V5UgTak5uhbV-RwF37CIRnRt9Ex/s400/food_omurice.png"
+   },
+   {
+    "en": "Salisbury steak",
+    "ja": "ハンバーグ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ-z0eCOw0pxhiLjDeEQEMHr7VMBI_y8acXXMWSyyoOXh4cI94B-9JHpp7W-ai46KLfU7YIKUE2pDU9em05QbHTAQA8mKltRFznt2GmDEKRTnBjq5mLgToEGFDPVa3hTjpQsXGhNYo7cQQ/s400/food_hamburg.png"
+   },
+   {
+    "en": "salt",
+    "ja": "しお",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJIBJKFaYXbCnls7aUOFuoIWwdhYYe0HKKTlRQl6MAz-Xt40Y5RhMBATZIZegyiAcVJ3SnnQkwMf-shIZasOdWxkYiJu3Vtwtgy6yKJ4ISMdRqaOuZVaWv1Q2c5e0EBzWEYYovrDAw7KM/s400/salt.png"
+   },
+   {
+    "en": "sandwich",
+    "ja": "サンドイッチ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyXa2KRibUfTFnQmWX31b35KsjUEIzBqi8PNiXJzrn78hKBIH4tXIiy_ntySy08n8AHLI2-oc0MzGc7EHFAOJmNiSnvZTl6ZteW1lO7Zt1w8bfexkasBEh6opOEiyMlPlpVv9boXXRgKo/s400/food_sandwitch.png"
+   },
+   {
+    "en": "sausage",
+    "ja": "ソーセージ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagnGsJd9kQjL45p_XrBijEp65A5wGHK8xIahAPwUmpDB7Zo0uikHG5JhwhSb1nX_HVbS-nyUK3P30t1lmgj_uJZ6o-xwA-WYVNT5siJNTChOXU5K9dxtG21vBT8-B0xCbjqeeHxwb4No/s400/food_sausage.png"
+   },
+   {
+    "en": "soup",
+    "ja": "スープ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPcG7vb2twN31mnNn4-cLCV9Of4MiphxDR6wMdOam2BcFCW_UYQpdKLPDYhAJ4R5KT4y0ONIoOejua9ZQkkLUFS8RaL-Hmd8-3svN6DK-3TOc5OIX8PBwElGkE8G0PhCAqFqF7NqWj-j3/s400/soup_corn.png"
+   },
+   {
+    "en": "soy sauce",
+    "ja": "しょうゆ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPW1oO8G0T0M5-52kR5VNIIFNh7wWLUhuqOzUvSpVCQp2CAt05Jg_nT8DeYz4AU260wtkLwIfkAbXVO36nMfrS7EkAB1-1Sf8Z7-TSUzDVsZHGcpbpRwCeI-5_RUezd4Tb1yUj6PPVHuvr/s400/cooking_syouyu.png"
+   },
+   {
+    "en": "spaghetti",
+    "ja": "スパゲッティ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheeDLy7sq464p2RxQ1PSW9m4pyYWXziy4hD6ERa5pe1A_9YFR-XODRzQNUTXrGURKmEh20wHjQ5_giEIvib8EAJBEObj5x4t1YS6Lrud6CUKbkbGK5XrNclezrbNEu5xElH_JOqfZFGUxB/s400/food_spaghetti_neapolitan.png"
+   },
+   {
+    "en": "sugar",
+    "ja": "さとう",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKgJUT6tOCi6XfqHE99P-PAEmwCy-ZEWmcSF6nUGXpNwzWit3Duk-36wULGD8Dblbq7dJIFskfGY2fljrynYC8LDbG-vdQ8jHu7sDrmHYfznq5I3ixh3JY9fcqbvIG2WIokzzKesrRJAM/s400/sugar.png"
+   },
+   {
+    "en": "tea",
+    "ja": "おちゃ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uh014NLF6s6agDkCSnKJrPZ8cwDv4uMF035h0dOpIjH9iUwu4zIxP8XKOIuj3M_AZcQNCCTlzFyNX_kuL3NpTazz9ln5_5IE47DJNGm-2uYcn_YdjooXDmWyCu0-nt0Sj5chR6SUyWUi/s400/drink_greentea.png"
+   },
+   {
+    "en": "toast",
+    "ja": "トースト",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG0YsE_2D9QIiM2-fs6_dZ8BOJcqJl9ev5u4AEUEfiyG1afwleCRfLUNbt1pwzpVd0TrPPhEYN5_nr-SzwcyRpbs9nF3dw4iZh7wXNIarhgUjL0f61R749GyxiFLUrjkZSf6p-pkDfFf4V/s400/food_toast.png"
+   },
+   {
+    "en": "water",
+    "ja": "みず",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ja_1utwpdvOSmG0JBzXAumYSHRIv71q2oMNRYA6mFShHJ2KQ9T5z4gOlneHAXYM9W1tqC9ulMCJES0E2536iQAycdt-HCl3Udc0a_mikHH5vtK89X6GzREC7ne0SO1tqOtF78Pljt55C/s400/medicine_cup_water.png"
+   }
+  ]
+ },
+ {
+  "genre": "Colors",
+  "words": [
+   {
+    "en": "black",
+    "ja": "くろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7eIx_o4IEE2E1dJqqfpjId7dSQADo4hhXe5OvMBoOrIFr4-a5uoxmtHh1CaxfyMUBqC74q5mrXY4KMgzFqiK2tOLZ4UwuIWGeV4KvKRwePephvm4SuSA05wnhNmU_6_CDPvvBEF6cGTw/s400/crayon12_black.png"
+   },
+   {
+    "en": "blue",
+    "ja": "あお",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOI1HvAOXgB3ybPSZ1FLFigaiLAuPFGf_Ds-RZOSa1leLEpLglBireGRoQGC_TLihmAkkAaxFNBW4rWpjkBUUa3gezfcWrrIro4AWqIVXX3BCjs7O_i8mvItnS9_VigKxr-T-e0lRBDjg/s400/crayon07_blue.png"
+   },
+   {
+    "en": "brown",
+    "ja": "ちゃいろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha1SJ7uWiMEpLq7laa91fv-n9E_KAZlrQuuupVILbIgnR7Zx3Rj89Xcry1m6yJ_2_HRDkMTdC5IDkXmzrfSvDBiOWTLI14oY4zjwlH53F7rpxXFEWbantgentmKIcaqRQnhKZ20wZp5sg/s400/crayon09_brown.png"
+   },
+   {
+    "en": "gold",
+    "ja": "きんいろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6A58vRh67cVSnoeouqAb70Ahe-xRC1AFnMy-JEWIKmr9mAowc17M5AphIE3tUgpR_1jgyvalSRwNAu9My25rcz0JxzAxGPmg9RyCyUyqS6_a163SXaFq_pR7CcCI7aW3uZXyl4Ror8bQ/s400/gold_star.png"
+   },
+   {
+    "en": "gray",
+    "ja": "はいいろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzMAf1PbW86pAZ0w_ISNbzFA8cGHYrOPVuZw-eR_paZoriwQ7Rzq5jGP6Td4b33SAuwlJxPDx6uV0EY_0ntHkIRtBHuh33B5qYM704gZR19XoiMkqgaKqeSHvLpNtqCht89exiOhb2wt0/s400/crayon11_gray.png"
+   },
+   {
+    "en": "green",
+    "ja": "みどり",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm9OoDcsTs0u8Il_SsXX5OyBt0ayH0Rr5gH90BE_pMno2AnXoRdxF8Wq-6Hr0ztdxjfovrXoeTcpt9Z00uINpVfzPzwp0mfMXwFu1-yuaSznpjchYx4xx6UOTKth3IJUcj7ngq3EsCTig/s400/crayon05_green.png"
+   },
+   {
+    "en": "light blue",
+    "ja": "みずいろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkoFPf2GD8SqBcapFEp2m760hXbpXKZJtoKP_YydpwGaM1y3UpsIiSCOynM-Y8iZF_LVnZ0WpR1qeK37UL6crbMk9-xpGDNq3SVZA5vvpz2pH_8lxKEKIivw4UdmRNmYeTCr1WadhyOQ/s400/crayon06_skyblue.png"
+   },
+   {
+    "en": "light green",
+    "ja": "きみどり",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikyUWSg6nPLu1VEocGw0mTuOTHGb_SeQu1fIcnilVGDl709YCnQXm66DNWg7HjpoYw6NRQgnqXseLv0dOZMA1ZCRh64vZKNMzxMRRWsUQveys-O_qPmgGNINTa14kFihvOtdCRV3Rvbws/s400/crayon04_lime.png"
+   },
+   {
+    "en": "orange",
+    "ja": "オレンジ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnvEENmLo05PahprEysxwBd8J9ValO7E3giDWXd4rQ2t28-DWQi_WZSsKM2zkTlRj3la7GB1MfN7YtSnkNbcYkWblXiEtv6WEZ_pSK4go1SIs9qUBdcZqbrLPoBc0epVfrLW4sqqreOO0/s400/crayon02_orange.png"
+   },
+   {
+    "en": "pink",
+    "ja": "ピンク",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzl03LsLGhUSE3uhZ6weNqH-8BvD1Dpa_IbablkusOLg8cYB6rcFBM_iL-7_uog9WY5SM0FbmsPJzdhGCNB4Km15RIj-y6-Ma5tWuI7llXMgVcIRPx8M2ryvYtngLRAoBLvDsbHFzTDwkv/s400/small_star4_pink.png"
+   },
+   {
+    "en": "purple",
+    "ja": "むらさき",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQ_ue1eMqCbY5VG1XjVuJKRCFWT21lDwA8XHP813h8OCIANGhzVGEkRdBFiYgMOQtaJ4JFPv2B2zUzIRoNxgeLGZHV_UFxd7IWYbdkohKDwuhzGEmrGuqUEu6A5C0YkUbbMZeAuD3mpU/s400/crayon08_purple.png"
+   },
+   {
+    "en": "red",
+    "ja": "あか",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiVDR0SEhIh472OyUi65rQNhsAONYDoWfWohL5e-8bD5tzLyzRNt65NoueNfNUH0lhuSwhVdY4w1wILSAqMYyJCshpDsRv-gZM8u_N4YFkeXO9QgzpKr5VcUFemuDvmhdsjhh5gv0RJEo/s400/crayon01_red.png"
+   },
+   {
+    "en": "silver",
+    "ja": "ぎんいろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrF4ebdhiJ_EZLEumODJROJZjRiRaME9z_5zFh_BtQwhIm4X7YvX6zjzUg6Kw9zB9a8IVgmsbpOsq23STKD2G9GNcz-v_vsJPDIK4klnBo1Bi458kDwSXAilzUFGLcTX3O1MCNfL5SaSBb/s400/medal2.png"
+   },
+   {
+    "en": "white",
+    "ja": "しろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNX7J2-DrF5AVJ9WOpwnNJZxrmLtaExbObJR0lPoR9wZFx1Lfp9G3dZTPgpbt3qenQqa6dnosOsJ6uCYOJ_xbYCtvnceV-TXYfJb4pTSsf7WbDd-aMIJIW94vTfYHnwWbkPLpb4uKLBP8/s400/crayon10_white.png"
+   },
+   {
+    "en": "yellow",
+    "ja": "きいろ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWrRpbYqpZNSd5opRYk3uvLEa3jCZcRN5ppJ6NqHyLr0wZkGWyYWeF3TccPyZ5FsU96W4RUx_o4n2v7ee67MvMshLUSUm2gDuTqqkjkNTTCFaYCn4yNbX7X8SzPlspy0ERRdT1dHO9TNI/s400/crayon03_yellow.png"
+   }
+  ]
+ },
+ {
+  "genre": "Emotion",
+  "words": [
+   {
+    "en": "angry",
+    "ja": "おこっている",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1hyphenhyphennjoIfXfcmeCedxGYATEZ0Wc0YgXdPqQsATwFsgv3GNsA48P7EKUvCcpVBpfnSxe9MoqTIk06Ccv0uTf3eXOtw-eMDqGeq9Raw-arI9epKPe-2fjgxSfgL2gBm-o-a1I_vrK22jSjua/s400/angry_fukureru_boy.png"
+   },
+   {
+    "en": "bored",
+    "ja": "たいくつ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5hMIjCPQsnNUyEWYjm2uc3JieUvl_7UwhD5M6SkDGkT5p-7fQGKQ6H3o49L-zvjXl3x7A57vLzJLB2ljWyLYAoyek_h6x5Nj6x5glZcrUF3QKybTpou_LJUgh2vFw4R0c9wqrU6Q4Qug4/s400/yaruki_nai_school_little_boy.png"
+   },
+   {
+    "en": "feel ill",
+    "ja": "ぐあいがわるい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJpGqOg332XD8NpAGlVxV8yMFugCoKJd2LDw8d1AUOmzhx8f4aMgEPpTCbjS5QGc1HOTDiqGGHtLBVyAqsScHHDnSaDpJA-Yta8aLT4z1NftY8Vkw3G3WEy2LUu7zsmWw4rFxoMFnOo0/s400/hatsunetsu_kodomo.png"
+   },
+   {
+    "en": "full",
+    "ja": "おなかいっぱい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjBaTkG9Xw8TdzpJaHN6iFitlT0-nnXDrJPp28Jo7m4MQwtxhyphenhyphenMsiRjxGvA5pOHjP9_QuGsneCTqJgE0yNvSCrFSRdCUtDoiNe4VqZl5O_KbQRH-bM_q-4lHZzjf4NupOpZhDdbYcYac/s400/manpuku_syokugo_man.png"
+   },
+   {
+    "en": "fun",
+    "ja": "たのしい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDZXOmYQwj6D4cM5beEMORXxl9wj1b_j_-Y-MjuhpDg2VroOp7iOfEH12rsgO4eJwpHcwL_XGwk6QmdXhyphenhyphencuNy6VWwE1_oXYnIJFWIQ-Q5uphF5GvVd6lyp5hwhxexTFzQu7IQJcl6fxng/s400/buranko_boy_smile.png"
+   },
+   {
+    "en": "funny",
+    "ja": "おもしろい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthksSpqn934goyS2_wAR_wsemQHL_Jb32lpkC2kj2U1bpn25yqkFWeXdA3gQSySkV_Ws_VT8I2E114TTrDKIbOJL6y6gKVDkcBddWfrwzbrfUdiNAFMZv61BZ9gDRk6XPlmZgokKKHQ/s400/boy01_laugh.png"
+   },
+   {
+    "en": "happy",
+    "ja": "うれしい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2HT3yjw8f7KJn4KhBa9XODvrQjZuiUI3KK54q2DFRfR35c02079yRTWkooHsM12Ix1FS666FVVCN7u57DdV_gUFk_bFM6cJnczV8rht3WOS4N9ZtpBiGvXJGPhI9LoN_8pFpqXYEcs4/s400/boy03_smile.png"
+   },
+   {
+    "en": "hungry",
+    "ja": "おなかがすいた",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Anen9J46WpmRZwmBY5CoM3MQ3NbV02nMixbQ1LaLbsp3xxphzGOwm0fSqZQm6xPrCRJAKQ2xi4K9dbbpon2razT5cC_muoSNFvlpaknHw8W769ZioT9Lf25g8nlAq8Skc_MCyNu-rIxX/s400/kodomosyokudou_hungry_boy.png"
+   },
+   {
+    "en": "nervous",
+    "ja": "きんちょうしている",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjELdeOg1cfDGHBinnz7TyhGGRS-x1Zy80x16rafo2A6YG1W1PG139NXXp6X9FXrT4kXWudiQqxSjaiwNeGnLRbplAVWJM5MD_UygFqCQFIv-ujdONlKRgnzKnlSiLD-9UXiSZl6pqShCx0/s400/school_kokuban_happyou_tenkousei_kinchou_boy.png"
+   },
+   {
+    "en": "painful",
+    "ja": "いたい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha3QJHrGNzEJd8g4rLIpgYkt85s3gYyC9zxEnvt1wcdNMJLLY24uRFFgw9cEiHSInMfNAR6Rr52ySEunV6khF6Ptxq8bW3XxeNP-yXm5NhPKp1Wa2AaCdxB3t-KJrqGXHZcfg2oRuLPPzi/s400/kega_boy.png"
+   },
+   {
+    "en": "sad",
+    "ja": "かなしい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpszTLSQM7VNa6Fqw5eORiKLJ_P4modJO8bD71l-hr1GRDkotZMiHBYEPlEDgUrvaMX6_TxHAcG1WFcjtSQcKCDi7NPKTYCpQvlIJ4tlvVE_lXZIMkimUJkeWmmDkBHFsgQ-_55Q7bv9k/s400/boy04_cry.png"
+   },
+   {
+    "en": "sleepy",
+    "ja": "ねむい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOApWBQCusp86E8FmhImdL-eesKlwZiW-3_czZPqSqNAP2toNTOhQutMXcu13sNYEdRiSKl-qmUyqexNNQIf4bhpbA76YaR3MDhqxtqA3YjDWSv3h-WAGhHhyxYDEQHsJH2YM1nKxq-aPO/s400/akubi_boy.png"
+   },
+   {
+    "en": "thirsty",
+    "ja": "のどがかわいた",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjseIS6xAVpac1WsUuzZBdq8FX7i8VOC0h9LwkBILi-3JYuqiHqVmieIKjgq8YowBW3kdio_Ruf9Gkcm3DVVtw0epZlzQJ435y4KiTB1u6jzN2uS7x318CRg59mTqomiDoaFYhjKX8FAfr8/s400/drink_water_boy2.png"
+   },
+   {
+    "en": "tired",
+    "ja": "つかれた",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdNbgzTjXEGsehXaIvJKnwfLteNShBwulOXqIvj48FVegFlkL4vJ5QEdHHaXxv7nGk1f16aSPCsxUn3y1hI6qt25HQb3b2O1TGt2BQS7Hlp2zUa45TWGUHXhLNRMmuUuUeEL4XvO1T2nA/s400/tsukare_boy.png"
+   },
+   {
+    "en": "yummy",
+    "ja": "おいしい",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXSrMDXAwa7MPVRh-di3slawUCiOBTRVWiT4VL7ykVsvK0h2sZWyJuY6jKLUvDBZ8e2lwG0F6Ng28ROEZD0D5uWYquo1vji-VNh4akkfIAwkvV8kcYIR5rGjO4PeDSL4U5GX7KoBwKdy1B/s400/sweets_creampuff_boy.png"
+   }
+  ]
+ }
+]
