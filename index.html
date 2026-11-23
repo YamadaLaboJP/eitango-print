@@ -63,7 +63,7 @@
 					<div class="rows">
 						<div class="row" v-for="word in chunk" :key="word.en">
 							<div class="illust">
-								<img :src="word.image" :alt="word.en" referrerpolicy="no-referrer">
+								<img v-if="word.image" :src="word.image" :alt="word.en" referrerpolicy="no-referrer">
 							</div>
 							<div class="label">
 								<p class="en">{{ word.en }}</p>
