@@ -1,0 +1,382 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+[v-cloak] {
+	display: none;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #1c2b3a;
+	font-family: "M PLUS Rounded 1c", "Hiragino Maru Gothic ProN", "Yu Gothic", sans-serif;
+	font-weight: 500;
+	line-height: 1.4;
+	-webkit-print-color-adjust: exact;
+	print-color-adjust: exact;
+}
+
+button {
+	font: inherit;
+	cursor: pointer;
+	touch-action: manipulation;
+}
+
+img {
+	max-width: 100%;
+}
+
+@page {
+	size: A4 portrait;
+	margin: 0;
+}
+
+/* Height budget (content box 265mm = 296 − 15.5 × 2):
+   headline 11.5 + margin 1.5 + row 23.8 × 10 + gap 1 × 9 = 260mm */
+
+.page {
+	width: 210mm;
+	height: 296mm;
+	padding: 15.5mm 13mm;
+	background: #fff;
+	overflow: hidden;
+	break-after: page;
+	page-break-after: always;
+}
+
+.page.is-last {
+	break-after: auto;
+	page-break-after: auto;
+}
+
+.headline {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 3mm;
+	height: 11.5mm;
+	margin: 0 0 1.5mm;
+	border-bottom: 0.55mm solid #1c2b3a;
+}
+
+.headline-title {
+	display: flex;
+	align-items: baseline;
+	gap: 2.5mm;
+	min-width: 0;
+	margin: 0;
+	color: #1c2b3a;
+	font-size: 7.4mm;
+	font-weight: 800;
+	line-height: 1;
+}
+
+.headline-en {
+	font-family: Nunito, "Trebuchet MS", sans-serif;
+}
+
+.headline-ja {
+	color: #3d4d5e;
+	font-size: 4.2mm;
+	font-weight: 700;
+}
+
+.headline-page {
+	flex: none;
+	margin: 0;
+	color: #3d4d5e;
+	font-size: 3.6mm;
+	font-weight: 700;
+	line-height: 1;
+}
+
+.rows {
+	display: flex;
+	flex-direction: column;
+	gap: 1mm;
+}
+
+.row {
+	display: grid;
+	grid-template-columns: 17mm 38mm minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+	column-gap: 1.6mm;
+	align-items: center;
+	height: 23.8mm;
+	min-width: 0;
+	break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+.illust {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 17mm;
+	height: 21mm;
+}
+
+.illust img {
+	width: auto;
+	height: auto;
+	max-width: 17mm;
+	max-height: 21mm;
+	object-fit: contain;
+}
+
+.label {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	min-width: 0;
+}
+
+.en {
+	margin: 0;
+	color: #161616;
+	font-family: Nunito, "Trebuchet MS", sans-serif;
+	font-size: 5mm;
+	font-weight: 800;
+	line-height: 1.05;
+	white-space: normal;
+	word-break: keep-all;
+	overflow-wrap: normal;
+}
+
+.ja {
+	margin: 0.7mm 0 0;
+	color: #333;
+	font-size: 3.1mm;
+	font-weight: 700;
+	line-height: 1.2;
+	word-break: keep-all;
+}
+
+.ruling {
+	display: block;
+	width: 100%;
+	height: 16mm;
+	min-width: 0;
+	align-self: center;
+}
+
+.ruling line {
+	fill: none;
+	stroke-linecap: butt;
+}
+
+.rule-top,
+.rule-bottom {
+	stroke: #3a3a3a;
+	stroke-width: 0.7;
+}
+
+.rule-mid {
+	stroke: #8a8a8a;
+	stroke-width: 0.55;
+	stroke-dasharray: 4.8 3.3;
+}
+
+.rule-base {
+	stroke: #111;
+	stroke-width: 1.45;
+}
+
+@media screen {
+	body {
+		background: #e6eef3;
+	}
+
+	.index {
+		width: min(210mm, 100%);
+		margin: 0 auto;
+		padding: 12mm 6mm 16mm;
+	}
+
+	.index h1 {
+		margin: 0 0 3mm;
+		padding-bottom: 3mm;
+		border-bottom: 0.8mm double #1c2b3a;
+		text-align: center;
+		font-size: 11mm;
+		font-weight: 800;
+		letter-spacing: 0.06em;
+		line-height: 1.2;
+	}
+
+	.lead,
+	.hint,
+	.status {
+		margin: 0;
+		text-align: center;
+	}
+
+	.lead {
+		margin-bottom: 8mm;
+		font-size: 4.8mm;
+		font-weight: 700;
+	}
+
+	.hint,
+	.status {
+		margin-top: 8mm;
+		color: #526272;
+		font-size: 3.8mm;
+	}
+
+	.status-error {
+		color: #8d2b2b;
+		font-weight: 700;
+	}
+
+	.choice {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 4mm;
+	}
+
+	.genre {
+		display: flex;
+		align-items: center;
+		gap: 3mm;
+		width: 100%;
+		min-height: 22mm;
+		padding: 4mm 5mm;
+		border: 0.45mm solid #d5dee6;
+		border-left-width: 2.2mm;
+		border-radius: 3.5mm;
+		background: #fff;
+		color: #1c2b3a;
+		text-align: left;
+		box-shadow: 0 0.4mm 1.2mm rgba(28, 43, 58, 0.06);
+	}
+
+	.genre-fruits { border-left-color: #d45b4a; }
+	.genre-vegetables { border-left-color: #2f9e62; }
+	.genre-animals { border-left-color: #d0892d; }
+	.genre-food { border-left-color: #d86a32; }
+	.genre-colors { border-left-color: #3a78c2; }
+	.genre-emotion { border-left-color: #b85b86; }
+
+	.genre-ja {
+		font-size: 7.2mm;
+		font-weight: 800;
+		line-height: 1.1;
+	}
+
+	.genre-en {
+		color: #526272;
+		font-family: Nunito, "Trebuchet MS", sans-serif;
+		font-size: 4.4mm;
+		font-weight: 800;
+	}
+
+	.genre-meta {
+		margin-left: auto;
+		color: #224488;
+		font-size: 4mm;
+		font-weight: 800;
+		white-space: nowrap;
+	}
+
+	.preview {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 8mm;
+		padding: 6mm 4mm 10mm;
+	}
+
+	.page {
+		border: 0.25mm solid rgba(28, 43, 58, 0.16);
+		box-shadow: 0 0.8mm 2.6mm rgba(28, 43, 58, 0.16);
+	}
+
+	.screen-ui {
+		position: sticky;
+		z-index: 20;
+		top: 0;
+		display: flex;
+		align-items: center;
+		gap: 4mm;
+		padding: 3mm 4mm;
+		background: #fff;
+		border-bottom: 0.3mm solid #d5dee6;
+	}
+
+	.back {
+		flex: none;
+		min-height: 12mm;
+		padding: 2mm 5mm;
+		border: 0.45mm solid #224488;
+		border-radius: 999px;
+		background: #fff;
+		color: #224488;
+		font-size: 4.6mm;
+		font-weight: 800;
+	}
+
+	.print-note {
+		flex: 1;
+		min-width: 0;
+		margin: 0;
+		color: #243140;
+		font-size: 3.7mm;
+		font-weight: 700;
+		line-height: 1.45;
+	}
+
+	.print {
+		flex: none;
+	}
+
+	.print button {
+		min-height: 16mm;
+		padding: 4mm 7mm;
+		border: none;
+		border-radius: 999px;
+		background: #224488;
+		color: #fff;
+		font-size: 6mm;
+		font-weight: 800;
+		box-shadow: 0 0.8mm 2mm rgba(28, 43, 58, 0.25);
+	}
+}
+
+@media screen and (min-width: 190mm) {
+	.index {
+		width: min(200mm, calc(100% - 12mm));
+	}
+
+	.choice {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media print {
+	.screen-ui,
+	.print,
+	.index,
+	.status {
+		display: none !important;
+	}
+
+	.preview {
+		display: block;
+		padding: 0;
+		margin: 0;
+	}
+
+	.page {
+		margin: 0;
+		border: none;
+		box-shadow: none;
+	}
+}

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>えいたんごれんしゅう</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500;700;800&family=Nunito:wght@700;800&display=swap">
+	<link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+	<div id="app" v-cloak>
+		<section class="index" v-if="ready && !selected">
+			<h1>えいたんごれんしゅう</h1>
+			<p class="lead">ジャンルをえらぶと、A4の練習プリントになります。</p>
+			<div class="choice">
+				<button
+					type="button"
+					class="genre"
+					v-for="genre in genres"
+					:key="genre.genre"
+					:class="genreClass(genre.genre)"
+					@click="open(genre)"
+				>
+					<span class="genre-ja">{{ genreJa(genre.genre) || genre.genre }}</span>
+					<span class="genre-en">{{ genre.genre }}</span>
+					<span class="genre-meta">{{ genre.words.length }}語・{{ pageCount(genre) }}まい</span>
+				</button>
+			</div>
+			<p class="hint">イラストはインターネットから表示します。</p>
+		</section>
+
+		<p class="status" v-if="!ready && !error">よみこみちゅう…</p>
+		<p class="status status-error" v-if="error">単語データを読み込めませんでした。通信を確認してもう一度ひらいてください。</p>
+
+		<template v-if="selected">
+			<div class="screen-ui">
+				<button type="button" class="back" @click="back">← もどる</button>
+				<p class="print-note">ブラウザの印刷設定で「余白: なし」「倍率: 100%」「背景のグラフィック: オン」にしてください。プレビューをタップすると、ジャンルの選択にもどります。</p>
+				<section class="print">
+					<button type="button" onclick="window.print();">🖨 印刷する</button>
+				</section>
+			</div>
+
+			<div class="preview">
+				<section
+					class="page"
+					v-for="(chunk, index) in pages"
+					:key="selected.genre + '-' + index"
+					:class="{ 'is-last': index === pages.length - 1 }"
+					:data-page="index + 1"
+					:data-rows="chunk.length"
+					@click="back"
+				>
+					<header class="headline">
+						<h2 class="headline-title">
+							<span class="headline-en">{{ selected.genre }}</span>
+							<span class="headline-ja" v-if="genreJa(selected.genre)">{{ genreJa(selected.genre) }}</span>
+						</h2>
+						<p class="headline-page">{{ index + 1 }} / {{ pages.length }}</p>
+					</header>
+					<div class="rows">
+						<div class="row" v-for="word in chunk" :key="word.en">
+							<div class="illust">
+								<img :src="word.image" :alt="word.en" referrerpolicy="no-referrer">
+							</div>
+							<div class="label">
+								<p class="en">{{ word.en }}</p>
+								<p class="ja">{{ word.ja }}</p>
+							</div>
+							<four-line></four-line>
+							<four-line></four-line>
+							<four-line></four-line>
+						</div>
+					</div>
+				</section>
+			</div>
+
+		</template>
+	</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.7.16/dist/vue.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/axios@1.7.9/dist/axios.min.js"></script>
+	<script src="js/index.js"></script>
+</body>
+</html>
